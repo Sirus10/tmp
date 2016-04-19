@@ -20,7 +20,7 @@
 #define SENSOR_LEVEL_1_PIN 1		// SENSOR LEVEL 1
 #define SENSOR_LEVEL_2_PIN 2		// SENSOR LEVEL 2
 #define SENSOR_LEVEL_3_PIN 3		// SENSOR LEVEL 3
-#define RF_OUT 4					// OUTPUT RF 
+#define RF_OUT 4					      // OUTPUT RF 
 
 x10rf myx10 = x10rf(RF_OUT,0,5);
 int level = 0;
