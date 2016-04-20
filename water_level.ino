@@ -8,7 +8,7 @@
 # This script use the x10rf library 
 # See source here : 
 # https://github.com/p2baron/x10rf
-#
+#https://gist.github.com/JChristensen/5616922
 #
 /*******************************************/
 
